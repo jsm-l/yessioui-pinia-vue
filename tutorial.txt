@@ -1,0 +1,4 @@
+Proyecto vite - vue https://es.vitejs.dev/guide/
+
+Para crear un Proyecto en vite con la plantilla de vue ejecutar
+npm create vite@latest my-vue-app -- --template vue
