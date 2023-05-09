@@ -2,3 +2,12 @@ Proyecto vite - vue https://es.vitejs.dev/guide/
 
 Para crear un Proyecto en vite con la plantilla de vue ejecutar
 npm create vite@latest my-vue-app -- --template vue
+
+Agregar router al proyecto 
+npm install vue-router@4
+
+Agregar pinia 
+npm install pinia
+
+Agregar firebase
+npm install firebase
